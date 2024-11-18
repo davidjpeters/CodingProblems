@@ -16,7 +16,6 @@ public:
                 s.erase(0, it->second.length());
             }
         }            
-
         return ans;
     }
 };
